@@ -34,7 +34,7 @@ importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib
 ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1708996548741/work
 ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1709559745751/work
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1696326070614/work
-Jinja2==3.1.2
+Jinja2==3.1.4
 jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1710255804825/work
 jupyter_core @ file:///home/conda/feedstock_root/build_artifacts/jupyter_core_1710257359434/work
 MarkupSafe @ file:///croot/markupsafe_1704205993651/work
